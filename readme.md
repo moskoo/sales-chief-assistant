@@ -1,6 +1,8 @@
-# Sales Chief Assistant · 销售首席助理
+<p align="center">
+  <img src="assets/sales-chief-assistant-icon.png" alt="销售首席助理：对话罗盘图标" width="120" height="120">
+</p>
 
-<img src="assets/sales-chief-assistant-icon.png" alt="销售首席助理：对话罗盘图标" width="120" height="120">
+<h1 align="center">Sales Chief Assistant · 销售首席助理</h1>
 
 面向销售人员、销售负责人、售前与客户经营团队的中文 Agent Skill。将客户资料、沟通记录和销售数据整理为有依据的判断、可使用的沟通内容与明确的下一步行动，覆盖获客、需求、报价、成交和客户经营。
 
