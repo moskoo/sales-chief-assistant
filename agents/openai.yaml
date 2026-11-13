@@ -1,0 +1,6 @@
+interface:
+  display_name: "销售首席助理"
+  short_description: "覆盖客户开发、顾问式沟通、价值销售、商机推进与复盘的销售助理"
+  icon_small: "./assets/sales-chief-assistant-icon.png"
+  icon_large: "./assets/sales-chief-assistant-icon.png"
+  default_prompt: "请用 $sales-chief-assistant，根据我提供的客户资料，判断当前障碍并给出下一步行动和可直接使用的话术。"
